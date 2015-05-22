@@ -1,7 +1,5 @@
 //Download JOParser2.0 from here https://goo.gl/4SFCpR
 
-
-import DB.Customer;
 import jop.Parser;
 
 /*
@@ -30,5 +28,5 @@ public class CreateXMLForObject {
 }
 
 //output
-//<object class="DB.Customer"><param><name>idCustomer</name><object class="java.lang.Integer">100</object></param><param><name>firstname</name><object class="java.lang.String">ABCD</object></param><param><name>lastname</name><object class="java.lang.String">QWER</object></param></object>
+//<object class="Customer"><param><name>idCustomer</name><object class="java.lang.Integer">100</object></param><param><name>firstname</name><object class="java.lang.String">ABCD</object></param><param><name>lastname</name><object class="java.lang.String">QWER</object></param></object>
 
