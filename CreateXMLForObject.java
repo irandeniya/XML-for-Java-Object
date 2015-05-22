@@ -1,6 +1,7 @@
-//Download JOParser2.0 from here https://goo.gl/4SFCpR
 
 import jop.Parser;
+//You should add JOParser2.0.jar to your package to access this.
+//Download JOParser2.0 from here https://goo.gl/4SFCpR
 
 /*
  * To change this license header, choose License Headers in Project Properties.
